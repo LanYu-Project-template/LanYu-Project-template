@@ -129,7 +129,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=dracula&hide_border=false" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=dracula&hide_border=0" />
     </td>
   </tr>
 </table>
