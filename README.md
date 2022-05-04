@@ -133,4 +133,5 @@
     </td>
   </tr>
 </table>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LanYu-Project-template&theme=dark)](https://github.com/LanYu-Project-template)
+
+[![LanYu-Project-template's github activity graph](https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=dracula)](https://github.com/LanYu-Project-template)
