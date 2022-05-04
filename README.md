@@ -129,9 +129,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=dracula&hide_border=true" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=dracula&hide_border=false" />
     </td>
   </tr>
 </table>
-
-[![LanYu-Project-template's github activity graph](https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=dracula&bg_color=FF000000&hide_border=true)](https://github.com/LanYu-Project-template)
