@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/%E4%B8%BB%E9%A1%B5%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/angular.svg" alt="angular" width="40" height="40"/> </a> 
+     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/1、主页图片资料/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
