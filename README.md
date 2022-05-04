@@ -133,3 +133,4 @@
     </td>
   </tr>
 </table>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LanYu-Project-template&theme=dark)](https://github.com/LanYu-Project-template)
