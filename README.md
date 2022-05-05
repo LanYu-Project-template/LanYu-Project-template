@@ -101,7 +101,6 @@
 	
   <a href="https://pugjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/后端/pug.svg" alt="pug" width="40" height="40"/> </a> 
-</p>
 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/工具/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
@@ -114,7 +113,7 @@
     
   <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/服务端/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> 
-
+</p>
 <br>
 <!-- 徽章start -->
 <p align="center">
