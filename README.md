@@ -127,7 +127,7 @@
 <!-- 统计卡片end -->
 <br>
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=xcode" />
 </div>
 <table align="center">
   <tr>
