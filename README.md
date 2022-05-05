@@ -126,13 +126,12 @@
 </p>
 <!-- 统计卡片end -->
 <br>
-<div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=xcode&custom_title=This%20is%20a%20title&hide_border=true" />
+
 </div>
 <table align="center">
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=xcode&hide_border=0" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=xcode&hide_border=0&bg_color=red" />
     </td>
   </tr>
 </table>
