@@ -131,7 +131,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=xcode&hide_border=0&color=8e43e7&line=ff6a00&point=linear-gradient(to left bottom, rgb(134, 239, 172), rgb(59, 130, 246), rgb(147, 51, 234))" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=xcode&hide_border=0&color=8e43e7&line=ff6a00&point=rgb(134, 239, 172), rgb(59, 130, 246), rgb(147, 51, 234))" />
     </td>
   </tr>
 </table>
