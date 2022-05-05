@@ -133,4 +133,3 @@
     </td>
   </tr>
 </table>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanYu-Project-template&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
