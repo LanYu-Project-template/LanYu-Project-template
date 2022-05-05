@@ -52,6 +52,22 @@
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
   
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/apache_hadoop-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
+
+	
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/mariadb.png" alt="elasticsearch" width="40" height="40"/> </a>
+	
+ <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/redis-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/> </a>
+	
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/postgresql-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/> </a>
+	
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/mysql-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/> </a>
+	
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/1、主页图片资料/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
 	
@@ -60,7 +76,22 @@
   
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/后端/java-original.svg" alt="java" width="40" height="40"/> </a>
- 
+	
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/后端/c-original.svg" alt="java" width="40" height="40"/> </a>
+	
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/后端/cplusplus-original.svg" alt="java" width="40" height="40"/> </a>
+ 	
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/后端/nestjs.svg" alt="java" width="40" height="40"/> </a>
+	
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/后端/python-original.svg" alt="java" width="40" height="40"/> </a>
+	
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/后端/php-original.svg" alt="java" width="40" height="40"/> </a>
+	
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/1、主页图片资料/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
   
