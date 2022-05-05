@@ -70,10 +70,10 @@
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/mysql-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/> </a>
 	
  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/服务端/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
 	
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/服务端/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 	
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/后端/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
