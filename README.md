@@ -94,7 +94,7 @@
   <!-- Github徽章 -->
   <a href="https://github.com/LanYu--Project--template" target="_blank"><img src="https://img.shields.io/badge/GitHub-LanYu--Project--template-success.svg?style=plastic&logo=Github"></a>
   <!-- Gitee徽章 -->
-  <a href="https://gitee.com/Augenstern-creator" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
+  <a href="https://gitee.com/Augenstern-creator" target="_blank"><img src="https://img.shields.io/badge/GitHub-LanYu--Project--template--creator-orange.svg?style=plastic&logo=Gitee"></a>
   <!-- CSDN徽章 -->
  <a href="https://blog.csdn.net/Augenstern_QXL" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
   <!-- 个人网站徽章 -->
