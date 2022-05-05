@@ -118,7 +118,7 @@
 </div>
 <!-- Github连续打卡end -->
 <br>
-<p align="center">
+<p align="center" white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:100px;>
 <!-- 统计卡片start -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LanYu-Project-template&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
