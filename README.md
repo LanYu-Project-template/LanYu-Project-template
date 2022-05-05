@@ -92,7 +92,7 @@
 <!-- 徽章start -->
 <p align="center">
   <!-- Github徽章 -->
-  <a href="https://github.com/Augenstern-creator" target="_blank"><img src="https://img.shields.io/badge/GitHub-Augenestern--creator-brightgreen"></a>
+  <a href="https://github.com/LanYu--Project--template" target="_blank"><img src="https://img.shields.io/badge/GitHub-LanYu--Project--template-green--creator-brightgreen"></a>
   <!-- Gitee徽章 -->
   <a href="https://gitee.com/Augenstern-creator" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
   <!-- CSDN徽章 -->
