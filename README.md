@@ -93,8 +93,6 @@
 <p align="center">
   <!-- Github徽章 -->
   <a href="https://github.com/LanYu-Project-template" target="_blank"><img src="https://img.shields.io/badge/GitHub-LanYu--Project--template-success.svg?style=plastic&logo=Github"></a>
-  <!-- Gitee徽章 -->
-  <a href="https://gitee.com/LanYu-Project-template" target="_blank"><img src="https://img.shields.io/badge/GitHub-LanYu--Project--template-orange.svg?style=plastic&logo=Gitee"></a>
   <!-- CSDN徽章 -->
  <a href="https://blog.csdn.net/weixin_46283545?spm=1010.2135.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-岚宇CSDN博客-yellow.svg?style=plastic&logo=BigBlueButton"></a>
   <!-- 个人网站徽章 -->
@@ -103,6 +101,8 @@
   </a>
   <!-- 访客徽章 -->
  <img src="https://visitor-badge.glitch.me/badge?page_id=LanYu-Project-template&left_color=red&right_color=blueviolet">
+  <!-- Gitee徽章 -->
+  <a href="https://gitee.com/LanYu-Project-template" target="_blank"><img src="https://img.shields.io/badge/GitHub-LanYu--Project--template-orange.svg?style=plastic&logo=Gitee"></a>
 </p>
 <!-- 徽章end -->
 <br>
