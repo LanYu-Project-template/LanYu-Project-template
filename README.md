@@ -131,7 +131,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=xcode&hide_border=0&color=#25da9e&line=#FF6F91&point=#25da9e"/>
+      <img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=xcode&hide_border=0&color=#25da9e&line=#25da25&point=#2525da&area_color=#9e25da"/>
     </td>
   </tr>
 </table>
