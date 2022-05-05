@@ -35,8 +35,10 @@
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+  <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a>
+	
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
   
@@ -104,8 +106,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/工具/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   
-  <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> 
+   
 
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
