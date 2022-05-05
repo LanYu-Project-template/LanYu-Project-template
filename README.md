@@ -108,7 +108,7 @@
 <br>
 <!-- Github奖杯🏆start -->
 <div align="center">
-	<!--<img src="https://github-profile-trophy.vercel.app/?username=LanYu-Project-template&no-bg=true"> -->
+	<img src="https://github-profile-trophy.vercel.app/?username=duktig666&no-bg=true"> 
 	<img src="https://github-profile-trophy.vercel.app/?username=LanYu-Project-template&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" /></div>
 <!-- Github奖杯🏆end -->
 <br>
