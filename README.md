@@ -1,7 +1,7 @@
 #### LanYu-Project-template
 <h1 align="center">
   <a href="">
-    <img src="">
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/1、主页图片资料/logo.svg">
   </a>
 </h1>
 <h3 align="center">An enthusiastic front and back end developer from China</h3>
