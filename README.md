@@ -96,7 +96,7 @@
   <!-- Gitee徽章 -->
   <a href="https://gitee.com/LanYu-Project-template" target="_blank"><img src="https://img.shields.io/badge/GitHub-LanYu--Project--template-orange.svg?style=plastic&logo=Gitee"></a>
   <!-- CSDN徽章 -->
- <a href="https://blog.csdn.net/weixin_46283545?spm=1010.2135.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
+ <a href="https://blog.csdn.net/weixin_46283545?spm=1010.2135.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-岚宇-yellow.svg?style=plastic&logo=CSDN"></a>
   <!-- 个人网站徽章 -->
   <a href="https://www.qindalin.com" target="_blank">
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
