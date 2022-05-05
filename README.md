@@ -126,7 +126,7 @@
 </p>
 <!-- 统计卡片end -->
 <br>
-
 </div>
-<div  align="center>
-             <img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=react-dark"/></div>
+<div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=react-dark" />
+</div>
