@@ -108,14 +108,10 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/工具/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 	
-   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/工具/getpostman-icon.svg" alt="jenkins" width="40" height="40"/> </a>  
-	
    <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/工具/graphql.png" alt="jenkins" width="40" height="40"/> </a>
 	
-   <a href="https://www.gulpjs.com.cn/
-	    " target="_blank" rel="noreferrer"> 
+   <a href="https://www.gulpjs.com.cn/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/工具/gulp-plain.svg" alt="jenkins" width="40" height="40"/> </a>
 	
    <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer">
