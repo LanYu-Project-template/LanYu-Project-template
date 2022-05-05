@@ -41,10 +41,7 @@
 	
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
-  
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-  
+	
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/前端/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   
