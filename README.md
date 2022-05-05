@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/badge/WebSite-岚宇个人网站-blue.svg?style=plastic&logo=Webflow">
   </a>
   <!-- 访客徽章 -->
- <img src="https://visitor-badge.glitch.me/badge?page_id=LanYu-Project-template&left_color=green&right_color=red.svg?style=plastic&logo=Visa">
+ <img src="https://visitor-badge.glitch.me/badge?page_id=LanYu-Project-template&left_color=blueviolet&right_color=red">
 </p>
 <!-- 徽章end -->
 <br>
