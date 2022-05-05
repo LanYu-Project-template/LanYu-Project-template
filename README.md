@@ -93,7 +93,7 @@
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/后端/php-original.svg" alt="java" width="40" height="40"/> </a>
 	
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/工具jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/工具/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
   
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
@@ -102,17 +102,17 @@
     <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/后端/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/工具getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/工具/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   
   <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/1、主页图片资料/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/服务端/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> 
 
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/数据库端/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/服务端/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
 
 
   <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/1、主页图片资料/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> 
+    <img src="https://cdn.jsdelivr.net/gh/LanYu-Project-template/LanYu-Project-PicGo/logo/服务端/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> 
 
  
   <a href="https://pugjs.org" target="_blank" rel="noreferrer"> 
