@@ -1,4 +1,8 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LanYu-Project-template&repo=LanYu-Project-template&theme=aura)](https://github.com/LanYu-Project-template/LanYu-Project-template)
+<div>
+   <a href="https://github.com/LanYu-Project-template/LanYu-Project-template">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LanYu-Project-template&repo=LanYu-Project-template&theme=aura">
+  </a>
+</div>
 
 <h1 align="center">
   <a href="https://blog.csdn.net/weixin_46283545?spm=1010.2135.3001.5343">
