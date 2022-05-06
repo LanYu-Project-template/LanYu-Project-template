@@ -142,6 +142,9 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=LanYu-Project-template&no-bg=true"> </div>
 <!-- Github奖杯🏆end -->
 <br>
+
+<div><img src="https://profile-counter.glitch.me/LanYu-Project-template/count.svg"></div>
+
 <!-- Github连续打卡start -->
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
@@ -162,4 +165,3 @@
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=react-dark&point=#4FFBDF" />
 </div>
-![Visitor Count](https://profile-counter.glitch.me/LanYu-Project-template/count.svg)
