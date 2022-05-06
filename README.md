@@ -143,7 +143,7 @@
 <!-- Github奖杯🏆end -->
 <br>
 
-<div><img src="https://profile-counter.glitch.me/LanYu-Project-template/count.svg"></div>
+<div align="center"><img src="https://profile-counter.glitch.me/LanYu-Project-template/count.svg"></div>
 
 <!-- Github连续打卡start -->
 <div align="center">
