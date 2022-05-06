@@ -162,4 +162,4 @@
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=react-dark&point=#4FFBDF" />
 </div>
-<div> href="https://profile-counter.glitch.me/LanYu-Project-template/count.svg"</div>
+![Visitor Count](https://profile-counter.glitch.me/LanYu-Project-template/count.svg)
