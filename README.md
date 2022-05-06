@@ -139,7 +139,9 @@
 <br>
 <!-- Github奖杯🏆start -->
 <div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=LanYu-Project-template&no-bg=true"> </div>
+	<img src="https://github-profile-trophy.vercel.app/?username=LanYu-Project-template&no-bg=true"> 
+	<img src="https://github-profile-trophy.vercel.app/?username=LanYu-Project-template&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
+</div>
 <!-- Github奖杯🏆end -->
 <br>
 
