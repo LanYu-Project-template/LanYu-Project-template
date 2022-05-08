@@ -172,4 +172,3 @@
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=react-dark&point=#4FFBDF" />
 </div>
-![visitors](https://page-views.glitch.me/badge?page_id=LanYu-Project-template)
