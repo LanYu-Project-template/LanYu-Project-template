@@ -133,7 +133,7 @@
  <a href="https://blog.csdn.net/weixin_46283545?spm=1010.2135.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-岚宇CSDN博客-yellow.svg?style=plastic&logo=C"></a>
    <!-- 访客徽章 -->
  <img src="https://visitor-badge.glitch.me/badge?page_id=LanYu-Project-template&left_color=red&right_color=blueviolet">
-	![visitors](https://page-views.glitch.me/badge?page_id=LanYu-Project-template)
+	
   <!-- 个人网站徽章 -->
   <a href=" " target="_blank">
     <img src="https://img.shields.io/badge/WebSite-岚宇个人网站-blue.svg?style=plastic&logo=Webflow">
@@ -172,3 +172,4 @@
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=react-dark&point=#4FFBDF" />
 </div>
+![visitors](https://page-views.glitch.me/badge?page_id=LanYu-Project-template)
