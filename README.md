@@ -170,5 +170,5 @@
 <br>
 </div>
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=react-dark&point=#4FFBDF" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=react-dark&point=#4FFBDF"/>
 </div>
