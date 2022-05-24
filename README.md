@@ -1,4 +1,3 @@
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
    <a href="https://github.com/LanYu-Project-template/">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LanYu-Project-template&repo=LanYu-Project-template&theme=aura">
@@ -171,6 +170,6 @@
 <br>
 </div>
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=ashutosh00710&theme=react-dark&point=#4FFBDF"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=LanYu-Project-template&theme=react-dark&point=#4FFBDF"/>
 </div>
 
